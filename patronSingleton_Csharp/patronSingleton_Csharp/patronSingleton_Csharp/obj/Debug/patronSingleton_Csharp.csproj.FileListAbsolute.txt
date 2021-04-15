@@ -1,0 +1,7 @@
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\bin\Debug\patronSingleton_Csharp.exe.config
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\bin\Debug\patronSingleton_Csharp.exe
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\bin\Debug\patronSingleton_Csharp.pdb
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\obj\Debug\patronSingleton_Csharp.csprojAssemblyReference.cache
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\obj\Debug\patronSingleton_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\obj\Debug\patronSingleton_Csharp.exe
+C:\Users\joseg\OneDrive\Documentos\patronSingleton_Csharp\patronSingleton_Csharp\patronSingleton_Csharp\obj\Debug\patronSingleton_Csharp.pdb
