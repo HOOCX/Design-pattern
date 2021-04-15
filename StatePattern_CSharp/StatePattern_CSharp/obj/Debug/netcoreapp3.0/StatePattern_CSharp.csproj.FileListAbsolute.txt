@@ -1,0 +1,10 @@
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\bin\Debug\netcoreapp3.0\StatePattern_CSharp.exe
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\bin\Debug\netcoreapp3.0\StatePattern_CSharp.deps.json
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\bin\Debug\netcoreapp3.0\StatePattern_CSharp.runtimeconfig.json
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\bin\Debug\netcoreapp3.0\StatePattern_CSharp.runtimeconfig.dev.json
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\bin\Debug\netcoreapp3.0\StatePattern_CSharp.dll
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\bin\Debug\netcoreapp3.0\StatePattern_CSharp.pdb
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\obj\Debug\netcoreapp3.0\StatePattern_CSharp.AssemblyInfoInputs.cache
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\obj\Debug\netcoreapp3.0\StatePattern_CSharp.AssemblyInfo.cs
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\obj\Debug\netcoreapp3.0\StatePattern_CSharp.dll
+C:\Users\yeiso\source\repos\StatePattern_CSharp\StatePattern_CSharp\obj\Debug\netcoreapp3.0\StatePattern_CSharp.pdb
