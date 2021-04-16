@@ -1,0 +1,7 @@
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\bin\Debug\prototypePatterns_csharp.exe.config
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\bin\Debug\prototypePatterns_csharp.exe
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\bin\Debug\prototypePatterns_csharp.pdb
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\obj\Debug\prototypePatterns_csharp.csprojAssemblyReference.cache
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\obj\Debug\prototypePatterns_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\obj\Debug\prototypePatterns_csharp.exe
+C:\Users\Hans\Documents\Visual Studio 2017\Projects\prototypePatterns_csharp\prototypePatterns_csharp\obj\Debug\prototypePatterns_csharp.pdb
